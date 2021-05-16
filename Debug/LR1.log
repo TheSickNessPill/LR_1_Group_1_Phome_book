@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\anton\source\repos\LR1\ClassTelBook.h(104): warning C4715: find_item: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LR1.vcxproj -> C:\Users\anton\source\repos\LR1\Debug\LR1.exe
